@@ -70,5 +70,5 @@ This project solves the problem by:
 ---
 
 ## 👨‍💻 Author
-Developed by **[Your Name](https://www.linkedin.com/in/your-link/)**  
+Developed by **[ِAbdelrhman Haroun](https://www.linkedin.com/in/abdelrhman-ashraf-455aa930a)**  
 👉 If you like this project, give it a ⭐ on GitHub!
